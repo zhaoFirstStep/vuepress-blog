@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@vuepress/theme-default@next",
+        "scope": "@vuepress",
+        "escapedName": "@vuepress%2ftheme-default",
+        "name": "@vuepress/theme-default",
+        "rawSpec": "next",
+        "spec": "next",
+        "type": "tag"
+      },
+      "F:\\vueRefactor\\vueBlog"
+    ]
+  ],
+  "_from": "@vuepress/theme-default@next",
+  "_hasShrinkwrap": false,
+  "_id": "@vuepress/theme-default@1.0.0-alpha.44",
+  "_inCache": true,
+  "_location": "/@vuepress/theme-default",
+  "_nodeVersion": "10.13.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/theme-default_1.0.0-alpha.44_1552244147023_0.6619520450452181"
+  },
+  "_npmUser": {
+    "name": "ulivz",
+    "email": "472590061@qq.com"
+  },
+  "_npmVersion": "lerna/3.13.1/node@v10.13.0+x64 (darwin)",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@vuepress/theme-default@next",
+    "scope": "@vuepress",
+    "escapedName": "@vuepress%2ftheme-default",
+    "name": "@vuepress/theme-default",
+    "rawSpec": "next",
+    "spec": "next",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@vuepress/theme-default/-/theme-default-1.0.0-alpha.44.tgz",
+  "_shasum": "48f973dc52a83a9c64292ec15c2c341111bb28c4",
+  "_shrinkwrap": null,
+  "_spec": "@vuepress/theme-default@next",
+  "_where": "F:\\vueRefactor\\vueBlog",
+  "author": {
+    "name": "Evan You"
+  },
+  "bugs": {
+    "url": "https://github.com/vuejs/vuepress/issues"
+  },
+  "dependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-alpha.44",
+    "@vuepress/plugin-container": "^1.0.0-alpha.44",
+    "@vuepress/plugin-nprogress": "^1.0.0-alpha.44",
+    "@vuepress/plugin-search": "^1.0.0-alpha.44",
+    "docsearch.js": "^2.5.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  },
+  "description": "Default theme for VuePress",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-a2OXi1Z73Ix2gZuFxwnpiwLG8AxrvRBLM8gzNjHh1VEd5YGOFaTh6wt/QHcuFmuUDCvH56HNBprTwTBYv9tHxA==",
+    "shasum": "48f973dc52a83a9c64292ec15c2c341111bb28c4",
+    "tarball": "https://registry.npmjs.org/@vuepress/theme-default/-/theme-default-1.0.0-alpha.44.tgz",
+    "fileCount": 29,
+    "unpackedSize": 56682,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJchV2zCRA9TVsSAnZWagAAlHMQAJSN+mri++oekPO3E9WW\nlVVpefTCs87+PNWt9YqglCpu2mT13M57Cm2cYrE6QYgD/nmnwJU2EuPUK7+c\nQbYeGfLI6H6ChBU+ijykPsGjqRJ5s16KiPq6bA8rAMiE5hXe1+tTYbAWh8qO\ne3aYtA9VhWXljpoJZ3dj8TM0GBzbcjbSHrp6IT3ljpCRp9g2GkNJxU3L4F7X\nQIuuG5uR6BtHwEu75RJFUQ/FmwRTvOqOlXQug7ZbsrS97pV7BpGl9tSRntAR\nkzzKjfHqdUWuIylFpOrtGrM30ukm10qRKTLhiglMxObw/G3eB6s+fXaBfX1J\nVnolE6NUNpzJ8kynTgnm7GE0SRTgjPG+Btzb6IqGjFavyi30FDYohzZIe7gG\nbMKEEl9dwE2BLyVuKgobz2I1J3hGwtuLG1S/fJmHeqUDHhwUEcEIMYl6ho1m\nd/MqvewUz/k0omROPnRurA2R5od1ibaAJ7BCp+doXiicL8EEUo7OSz7HV844\nR4Muvi2el3LJxjvSVkvmpIsZOkHOVKpe4LO0UpuZViJvVs2Uiwy/VSDg2fyR\njDl3KeQ/NDmqBJd4os912aZr99watbi9x8Xu6epy68RMP1boYlxQDLnaHzPv\ndzxSIweGdagYBMg1Gwf5Qg9bbdDIFnjy3wz89LSN3bm0WQ5WBfORixKVCVVG\nbYWb\r\n=7yfK\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "e727f7e2a22855be9154ec5ed62bcc8e9612e366",
+  "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/theme-default#readme",
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "ulivz",
+      "email": "472590061@qq.com"
+    },
+    {
+      "name": "yyx990803",
+      "email": "yyx990803@gmail.com"
+    }
+  ],
+  "name": "@vuepress/theme-default",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "readme": "# @vuepress/theme-default\n\n> theme-default for vuepress\n\n## Plugins\n\nThe default theme has the following plugin built in:\n\n- [@vuepress/plugin-active-header-links](https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/plugin-active-header-links)\n- [@vuepress/plugin-google-analytics](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-google-analytics)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vuepress.git",
+    "directory": "packages/@vuepress/theme-default"
+  },
+  "version": "1.0.0-alpha.44"
+}
